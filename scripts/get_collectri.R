@@ -2,6 +2,7 @@
 # load packages
 library(OmnipathR)
 library(dplyr)
+library(decoupleR)
 
 # -------------------------------------------------------------------------------
 
