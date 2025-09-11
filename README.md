@@ -27,6 +27,9 @@ conda activate decoupler_env
 (decoupler_env) user@computer:~$
 ```
 
+## 転写活性推定の実行
+転写活性スコアを推定するには、scripts/decoupleR_TF.ipynbを使用します。スクリプトを実行する前に、実行環境がdecoupler_env (Python 3.13.7)になっているかを確認してください。実行環境は.ipynbファイルをVScodeで開くと、画面右上に表示されます。
+
 ## References
  - [decoupler - Ensemble of methods to infer enrichment scores](https://decoupler.readthedocs.io/en/latest/)
 
