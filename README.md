@@ -13,7 +13,7 @@ pip install notebook
 cd your_directory
 
 # リポジトリをローカル環境にも持ってくる
-git clone [git@github.com:Akane-ogawa/decoupleR.git](https://github.com/Akane-ogawa/decoupleR.git)
+git clone https://github.com/Akane-ogawa/decoupleR.git
 ```
 
 ## 環境構築
