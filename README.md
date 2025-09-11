@@ -11,8 +11,20 @@ pip install notebook
 ```bash
 # 任意のディレクトリに移動
 cd your_directory
+
 # リポジトリをローカル環境にも持ってくる
 git clone [git@github.com:Akane-ogawa/decoupleR.git](https://github.com/Akane-ogawa/decoupleR.git)
+```
+
+## 環境構築
+decoupleR実行に必要なAnaconda環境ライブラリを特定のバージョンでインストールします。以下を実行することによって、decoupleR解析用の環境がアクティベートされます。
+```bash
+bash setup.sh
+conda activate decoupler_env
+```
+ターミナルの先頭に以下のように、()内に新しい環境が表示されていたら成功です。
+```bash
+(decoupler_env) user@computer:~$
 ```
 
 ## References
